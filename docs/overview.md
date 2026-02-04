@@ -8,3 +8,4 @@
 |--------|------|
 | `utility-commit-message` | スレッドログや差分からコミットメッセージを作成 |
 | `utility-git-worktree` | `git worktree` を使った worktree の作成/管理手順を案内 |
+| `utility-layered-explainer` | 浅い→深い→第一原理までの段階的な解説を出力 |

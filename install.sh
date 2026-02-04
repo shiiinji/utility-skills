@@ -14,6 +14,7 @@ CODEX_SKILLS_DIR="$HOME/.codex/skills"
 SKILLS=(
     "utility-commit-message"
     "utility-git-worktree"
+    "utility-layered-explainer"
 )
 
 OLD_SKILLS=(
@@ -77,3 +78,4 @@ echo "  Claude Code / Codex:"
 echo ""
 echo "  /utility-commit-message <thread.md or context>"
 echo "  /utility-git-worktree <repo/base/worktree info>"
+echo "  /utility-layered-explainer <topic/question>"
